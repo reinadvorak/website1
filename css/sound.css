@@ -13,5 +13,11 @@ body {
 
 .btn {
     background-color: #555555;
-    font-color: white;
+    color: white;
+    height: 75px;
+    width: 150px;
+    margin: 10px;
+    border: none;
+    cursor: pointer;
+    position: relative;
 }
