@@ -31,3 +31,8 @@ body {
     position: relative;
     margin-bottom: 20px;
 }
+
+.hero::before {
+    content: '';
+    position: absolute;
+}
