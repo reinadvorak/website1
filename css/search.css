@@ -52,11 +52,10 @@ body {
     transform: translateX(198px);
 }
 
-.back {
-    top: 100px;
+.search.back {
     transform: translate(-400%,-1500%);
     margin: 0;
 }
-.back a {
+.search.back a {
     color: black;
 }
