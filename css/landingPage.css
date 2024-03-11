@@ -189,3 +189,11 @@ input[type='submit'] {
     background: transparent;
     font-size: 25px;
 }
+
+.back {
+    transform: translate(-42%,150%);
+}
+
+.back a {
+    color: white;
+}
