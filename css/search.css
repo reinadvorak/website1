@@ -54,7 +54,7 @@ body {
 
 .back {
     transform: translate(-400%,-1600%);
-    position: relative;
+    position: fixed;
 }
 
 .back a {
