@@ -56,6 +56,10 @@ body {
     transform: translate(-400%,-1600%);
     position: fixed;
 }
+.back.active {
+    transform: translate(-400%,-1600%);
+    position: fixed;
+}
 
 .back a {
     color: black;
