@@ -52,4 +52,11 @@ body {
     transform: translateX(198px);
 }
 
-.back 
+.back {
+    top: 100px;
+    transform: translate(-400%,-1500%);
+    margin: 0;
+}
+.back a {
+    color: black;
+}
