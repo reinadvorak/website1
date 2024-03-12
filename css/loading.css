@@ -29,4 +29,11 @@ body {
     filter: blur(30px);
 }
 
+.back {
+    translate: transform(-100px, -1000px);
+}
+
+.back a {
+    color: white;
+}
 
