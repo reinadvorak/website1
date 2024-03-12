@@ -27,6 +27,7 @@ body {
 
 .back {
     transform: translate(-20px, -280px);
+    position: absolute;
 }
 
 .back a {
