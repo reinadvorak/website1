@@ -64,5 +64,8 @@ body {
 
 .back {
     transform: translate(0px,-280px);
-    background-color: red;
+    position: absolute;
+}
+.back a {
+    color: black;
 }
