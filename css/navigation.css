@@ -115,3 +115,10 @@ body {
     color: rgb(192,57,43);
     font-weight: bold;
 }
+
+.back {
+    transform: translate(0, -550px);
+}
+.back a {
+    color: white;
+}
