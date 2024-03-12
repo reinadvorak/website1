@@ -30,10 +30,11 @@ body {
 }
 
 .back {
-    translate: transform(-100px, -1000px);
+    transform: translate(-500px, -1400%);
 }
 
 .back a {
     color: white;
+    size: 40px;
 }
 
