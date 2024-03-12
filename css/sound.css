@@ -24,3 +24,11 @@ body {
 .btn:hover {
     opacity: 0.9;
 }
+
+.back {
+    transform: translate(-20px, -280px);
+}
+
+.back a {
+    color: black;
+}
