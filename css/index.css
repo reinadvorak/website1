@@ -23,7 +23,7 @@ h1 {
     position: absolute;
 }
 
-ul {
+.container ul {
     list-style-type: none;
     text-align: center;
     padding: 10px;
@@ -31,7 +31,7 @@ ul {
     width: 1000px;
 }
 
-ul a {
+.container ul a {
     color: black;
     font-size: 150%;
     line-height: 50px;
