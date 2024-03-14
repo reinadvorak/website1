@@ -2,7 +2,7 @@
 
 
 body {
-    image: "images/palmtrees.jpg";
+    background-image: url("images/palmtrees.jpg");
 }
 
 h1 {
