@@ -15,6 +15,12 @@ h1 {
     font-family: "Nunito", sans-serif;
 }
 
+container {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
 ul {
     list-style-type: none;
     justify-content: center;
