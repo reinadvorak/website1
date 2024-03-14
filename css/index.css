@@ -67,12 +67,12 @@ h1 {
 }
 
 .close-btn {
-    top: 0;
-    right: 0;
+    position: absolute;
     background: transparent;
-    font-size: 25px;
+    font-size: 20px;
     color: white;
     border: solid;
     border-radius: 10px;
-    border-size: 2px;
+    border-width: 2px;
+    transform: translateX(-400%);
 }
