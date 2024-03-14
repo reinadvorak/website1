@@ -2,3 +2,7 @@
 body {
     background-color: rgb(132, 186, 153);
 }
+
+ul a {
+    text-decoration: none;
+}
