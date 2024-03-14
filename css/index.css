@@ -18,12 +18,11 @@ h1 {
 ul {
     list-style-type: none;
     text-align: center;
-    display: flex;
     justify-content: center;
     align-items: center;
     padding: 10px;
     border: solid;
-    width: 500px;
+    width: 1000px;
 }
 
 ul a {
