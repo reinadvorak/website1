@@ -3,11 +3,23 @@ body {
     background-color: rgb(132, 186, 153);
 }
 
+h1 {
+    font-size: 300%;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    text-align: center;
+    padding: 10px;
+}
 
 ul {
     list-style-type: none;
+    text-align: center;
+    padding: 10px;
 }
 
 ul a {
     color: black;
+    font-size: 150%;
+    line-height: 50px;
 }
