@@ -65,3 +65,14 @@ h1 {
     color: white;
     font-family: "Nunito", sans-serif;
 }
+
+.close-btn {
+    top: 0;
+    right: 0;
+    background: transparent;
+    font-size: 25px;
+    color: white;
+    border: solid;
+    border-radius: 10px;
+    border-size: 2px;
+}
