@@ -19,6 +19,7 @@ ul {
     list-style-type: none;
     text-align: center;
     padding: 10px;
+    border: 10px;
 }
 
 ul a {
