@@ -4,7 +4,7 @@ btn = document.getElementById('btn')
 close = document.getElementById('close')
 
 close.addEventListener('click', () => {
-    btn.classList.remove('show-btn')
+    btn.classList.add('show-btn')
 })
 
 open.addEventListener('click', () => {
@@ -16,5 +16,5 @@ close.addEventListener('click', () => {
 })
 
 open.addEventListener('click', () => {
-    btn.classList.add('show-btn')
+    btn.classList.remove('show-btn')
 })
