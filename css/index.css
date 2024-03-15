@@ -39,6 +39,10 @@ h1 {
     color: white;
 }
 
+.btn.show-btn {
+    display: block;
+}
+
 .container {
     display: flex;
     justify-content: center;
