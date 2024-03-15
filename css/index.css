@@ -26,6 +26,7 @@ h1 {
     align-items: center;
     text-align: center;
     height: 350px;
+    cursor: pointer;
 }
 
 .btn input {
