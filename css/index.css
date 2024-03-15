@@ -20,7 +20,7 @@ h1 {
     color: white;
 }
 
-.btn {
+.btn  {
     display: flex;
     justify-content: center;
     align-items: center;
