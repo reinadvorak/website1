@@ -119,6 +119,7 @@ body {
 .back {
     transform: translate(20px, -650px);
     position: static;
+    width: 200px;
 }
 .back a {
     color: white;
