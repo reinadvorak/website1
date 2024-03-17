@@ -117,7 +117,8 @@ body {
 }
 
 .back {
-    transform: translate(0, -550px);
+    transform: translate(20px, -680px);
+    position: static;
 }
 .back a {
     color: white;
