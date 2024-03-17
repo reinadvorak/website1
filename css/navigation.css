@@ -117,7 +117,7 @@ body {
 }
 
 .back {
-    transform: translate(20px, -680px);
+    transform: translate(20px, -650px);
     position: static;
 }
 .back a {
