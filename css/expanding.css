@@ -63,7 +63,7 @@ body {
 }
 
 .back {
-    transform: translate(0px,-280px);
+    transform: translate(-620px,-350px);
     position: absolute;
 }
 .back a {
